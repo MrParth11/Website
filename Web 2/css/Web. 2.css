@@ -1,0 +1,531 @@
+            header {
+                width: 100%;
+                height: 50px;
+                /* border: 1px solid black; */
+                border-radius: 20px 5px;
+            }
+
+            header .logo {
+                width: 25%;
+                height: 50px;
+                margin-left: 50px;
+                float: left;
+            }
+
+            .logo h1 {
+                width: 100%;
+                height: 50%;
+                font-size: large;
+            }
+
+            .logo p {
+                width: 100%;
+                font-size: small;
+                margin-top: -30px;
+            }
+
+            nav {
+                width: 40%;
+                height: 50px;
+                float: right;
+            }
+
+            nav a {
+                line-height: 50px;
+                padding: 20px;
+                text-decoration: none;
+            }
+
+            .main {
+                margin-top: 50px;
+                width: 100%;
+                height: 675px;
+                /* border: 1px solid black; */
+                border-radius: 20px 5px;
+            }
+
+            .text1 {
+                float: left;
+                width: 50%;
+                height: 675px;
+
+            }
+
+            .text1 h1 {
+                font-size: 80px;
+                margin-left: 150px;
+            }
+
+            .text1 p {
+                font-size: larger;
+                margin-left: 150px;
+            }
+
+            .text1 button {
+                width: 150px;
+                margin-left: 150px;
+            }
+
+            .photo {
+                width: 49%;
+                height: 600px;
+                float: right;
+            }
+
+            .photo img {
+                float: right;
+                width: 100%;
+                height: 500px;
+            }
+
+            .main1 {
+                margin-top: 50px;
+                width: 100%;
+                height: 600px;
+                /* border: top; */
+
+                background-color: orange;
+                border-radius: 20px;
+                -webkit-clip-path: polygon(33% 8%, 58% 16%, 100% 33%, 100% 99%, 0 100%, 0% 60%, 0 5%);
+                clip-path: polygon(33% 8%, 58% 16%, 100% 33%, 100% 99%, 0 100%, 0% 60%, 0 5%)
+            }
+            .p1 {
+                width: 50%;
+                height: 600px;
+                float: left;
+            }
+
+            .p1 h1 {
+                width: 40%;
+                margin-top: 150px;
+                font-size: 40px;
+                margin-left: 200px;
+                font-weight: bolder;
+            }
+
+            .p2 {
+                width: 49.7%;
+                height: 600px;
+                float: left;
+            }
+
+            .p2 p {
+                width: 70%;
+                height: 100px;
+                margin-top: 200px;
+                margin-left: 80px;
+                font-size: large;
+            }
+
+            .p3 {
+               font-size: 30px;
+                width: 400px;
+                height: 200px;
+                margin-left: 150px;
+            }
+
+            .p3 p {
+                font-size: large;
+            }
+
+            .main2 {
+                margin-top: 50px;
+                width: 100%;
+                height: 600px;
+                
+                border-radius: 20px 5px;
+            }
+
+            .create1 {
+                width: 20%;
+                height: 300px;
+                float: left;
+                margin-left: 4%;
+                border: 1px solid black;
+            }
+
+            .create2 {
+                width: 20%;
+                height: 300px;
+                float: left;
+                margin-left: 4%;
+                border: 1px solid black;
+            }
+
+            .create3 {
+                width: 20%;
+                height: 300px;
+                float: left;
+                margin-left: 4%;
+                border: 1px solid black;
+            }
+
+            .create4 {
+                width: 20%;
+                height: 300px;
+                float: left;
+                margin-left: 4%;
+                border: 1px solid black;
+            }
+
+            .paragraph1 {
+                margin-top: 70px;
+                width: 20%;
+                height: 225px;
+                float: left;
+                margin-left: 4%;  
+                font-size: large;
+            }
+
+            .paragraph2 {
+                margin-top: 70px;
+                width: 20%;
+                height: 225px;
+                float: left;
+                margin-left: 4%;
+                font-size: large;
+            }
+
+            .paragraph3 {
+                margin-top: 70px;
+                width: 20%;
+                height: 225px;
+                float: left;
+                margin-left: 4%;
+                font-size: large;
+            }
+
+            .paragraph4 {
+                margin-top: 70px;
+                width: 20%;
+                height: 225px;
+                float: left;
+                margin-left: 4%;
+                font-size: large;
+            } 
+            .main3{
+                margin-top: 50px;
+                width: 100%;
+                height: 500px;  
+            }
+            .photo2{
+                float: left;
+                width: 50%;
+                height: 500px;
+                border: 1px solid black
+            } 
+            .photo2 img{ 
+                width: 100%;
+                height: 100%;
+                /* background-size:contain; */
+            } 
+            .paragraph5{
+                float: left;
+                width: 49.7%;
+                height: 500px;
+            }
+            .paragraph5 h1{
+                margin-left: 200px;
+                    margin-top: 150px;
+                    font-size: 60px;
+            }
+            .paragraph5 p{
+                margin-left: 200px;
+                    margin-top: 10px;
+                    font-size: x-large;
+            }
+            .main4{
+                margin-top: 50px;
+                width: 100%;
+                height: 800px;
+                background-color:pINK;
+            }
+            .paragraph6{
+                width: 50%;
+                height: 150px;
+                margin-top: 50px;
+                margin-left: 200px; 
+            }
+            .paragraph6 h1{
+                font-size: 50px;
+            }
+        }
+            .paragraph6 p{
+                font-size:60px;
+            }
+            #a{
+                margin-left: 200px;
+                width: 10%;
+                height: 150px;
+                float: left;
+                margin-top: 70px;
+                /* border: 1px solid black; */
+            }
+            #b{ 
+                width: 10%;
+                height: 150px;
+                float: left;
+                margin-left: 150px;
+                margin-top: 70px;
+                /* border: 1px solid black; */
+            }
+            #c{
+                width: 10%;
+                height: 150px;
+                float: left;
+                margin-left: 150px;
+                margin-top: 70px;
+                /* border: 1px solid black; */
+            }
+            #d{
+                width: 10%;
+                height: 150px;
+                float: left;
+                margin-left: 150px;
+                margin-top: 70px;
+                /* border: 1px solid black; */
+            }
+            #e{
+                margin-left: 200px;
+                width: 10%;
+                height: 150px;
+                float: left;
+                margin-top: 70px;
+                /* border: 1px solid black; */
+            }
+            #f1{ 
+                width: 10%;
+                height: 150px;
+                float: left;
+                margin-left: 150px;
+                margin-top: 70px;
+                /* border: 10px solid black; */
+            }
+            #g{
+                width: 10%;
+                height: 150px;
+                float: left;
+                margin-left: 150px;
+                margin-top: 70px;
+                /* border: 1px solid black; */
+            }
+            #h{
+                width: 10%;
+                height: 150px;
+                float: left;
+                margin-left: 150px;
+                margin-top: 70px;
+                /* border: 1px solid black; */
+            }
+            .main5{
+                width: 100%;
+                height: 600px;
+                margin-top: 50px;
+            }
+            .paragraph7{
+                height:50px;
+                font-size: 40px;
+                margin-left:150px;
+            }
+            .a{
+                width: 22%;
+                height: 400px;
+                float: left;
+                margin-left: 150px;
+                margin-top: 80px;
+                border: 1px solid black;
+                border-radius: 20px 5px;
+            }
+            .a p{
+                font-size: 30px;
+                padding: 20px;
+            }
+            .b{
+                width: 22%;
+                height: 400px;
+                float: left;
+                margin-left: 5%;
+                margin-top: 80px;
+                border: 1px solid black;
+                border-radius: 20px 5px;
+            }
+            .b p{
+                font-size: 30px;
+                padding: 20px;
+            }
+            .c{
+                width: 22%;
+                height: 400px;
+                float: left;
+                margin-left: 5%;
+                margin-right: 150px;
+                margin-top: 80px;
+                border: 1px solid black;
+                border-radius: 20px 5px;
+            }
+            .c p{
+                font-size: 30px;
+                padding: 20px;
+            }
+            .main6{
+                width: 100%;
+                height: 700px;
+               background-color: rgb(228, 212, 212);
+            }
+            .paragraph8{
+                width: 50%;
+                height: 400px;
+                margin-top: 150px;
+                float: left;
+            }
+            .paragraph8 h1{
+                margin-left: 200px;
+            }
+            .paragraph8 p{
+                font-size: x-large;
+                margin-left: 200px;
+            }
+            .paragraph8 button{
+                font-size: x-large;
+                margin-left: 200px;
+            }
+            .form{
+                width: 30%;
+                height: 340px;
+                float: left;
+                margin-left: 100px;
+                margin-top: 20px;
+                padding: 20px;
+              background-color: black;
+              color: white;
+
+            }
+            .form h2{
+                margin-top: -25px;
+                margin-left: 50px;
+                font-size: xx-large;
+            }
+            .form a{
+                font-size: x-large;
+            }
+            .form p{
+                margin-top: -10px;
+                font-size: x-large;
+            }
+            .form button{
+                margin-left: 100px;
+                margin-top: 20px;
+                padding: 10px;
+                width: 250px;
+            }
+            .paragraph9{
+                width: 30%;
+                height: 200px;
+                float: right;
+                padding: 20px;
+                margin-right: 156px;
+                background-color: pink;
+            }
+            .paragraph9 p{
+                margin-top: 20px;
+                margin-left: 70px;
+            }
+            .main7{
+                width: 100%;
+                height: 700px;
+            }
+            .paragraph10{ 
+                font-size: 30px;
+                text-align: center;
+            }
+            .paragraph10 button{
+                font-size: 20px;
+                width: 200px;
+            }
+            .photo3{
+                margin-left: 200px;
+            }
+            footer{
+                margin-top: 190px;
+                    width: 100%;
+                    height: 600px;
+                    background-color: orange;
+                    border-radius: 20px 10px;
+
+            }
+            .F{
+                width: 100%;
+                height: 250px;
+                /* border: 1px solid black; */
+            }
+            .F h1{
+                font-size: 20px;
+                margin-left: 100px;
+                font-size: 50px;
+            }
+            .F p{
+                margin-top: -20px;
+                margin-left: 100px;
+                font-size: 30px;
+            }
+            .f1{    
+                width: 30%;
+                height: 250px;
+                /* border: 1px solid black; */
+                float: left;
+                margin-left: 250px;
+            }
+            #f{
+                width: 50%;
+                height: 250px;
+                /* border: 1px solid black; */
+                float: left;
+            }
+            #f p{ 
+                font-size:20px
+            }
+            #f2{
+                width: 49.7%;
+                height: 250px;
+                margin-top: -252px;
+                /* border: 1px solid black; */
+                float: right;
+            }
+            #f2 p{
+                margin-top: 278px;
+                font-size:20px;
+                margin-left: 20px;
+            }
+            
+            .f2{
+                width: 30%;
+                height: 250px;
+                /* border: 1px solid black; */
+                float: left;
+                margin-left: 100px;
+            }
+            
+            #k{
+              
+                width: 50%;
+                height: 250px;
+                /* border: 1px solid black; */
+                float: left;
+            }
+            #k a{
+                font-size:20px
+            }
+            #k2{
+                width: 49%;
+                height: 250px;
+                margin-top: px;
+                /* border: 1px solid black; */
+                float: right;
+            }
+            #k2 p{
+                font-size: 20px;
+            }
+            #k2 button{
+                margin-top: 20px;
+                margin-left: 60px;
+            }
