@@ -1,0 +1,287 @@
+header{
+    width: 100%;
+    height: 100px;
+    /* border: 1px solid black; */
+    position:fixed;
+    background-color:whitesmoke;
+}
+.logo{
+    width: 25%;
+    height: inherit;
+    float: left;
+    line-height: 100px;
+    margin-left: 10%;
+}
+nav{
+    width: 50%;
+    height: inherit;
+    line-height: 100px;
+    float: right;
+}
+li{
+    display:inline;
+    padding: 40px;
+}
+li a{
+    text-decoration: none;
+}
+.main1{
+    width: 100%;
+    height: 900px;
+    border: 1px solid black;
+    background-image: url(bg1.jpg);
+    background-size: cover;
+    background-attachment:fixed;
+}
+.text1{
+    color: white;
+    margin-top: 300px;
+     margin-left: 180px;
+    font-size: 50px;
+}
+.text1 button{
+    width: 300px;
+    padding: 15px;
+    margin-left: 20px;
+}
+.main2{
+    width: 100%;
+    height: 800px;
+    margin-top: 50px;
+    /* border: 1px solid black; */
+    background-color:whitesmoke;
+}
+.img1{
+    width: 50%;
+    height: 800px;
+    /* border: 1px solid black; */
+    float: left;
+    background-image: url(p1.jpeg);
+    background-size: 50%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.text2{
+    width: 49.7%;
+    height: 100%;
+    /* border: 1px solid black; */
+   float: left;
+   
+}
+.text2 h1{
+    margin-top: 200px;
+    font-size: 70px;
+    margin-left: 180px;
+}
+.text2 p{
+    font-size: 30px;
+    margin-left: 180px;
+}.text2 button{
+    font-size: 30px;
+    margin-left: 180px;
+}
+.main3{
+    width: 100%;
+    height: 600px;
+}
+.text3{
+    width: 100%;
+    height: 200px;
+    text-align: center;
+    margin-top: 70px;
+    font-weight: bold;
+    font-size: 50px;
+}
+.p1{
+    width: 100%;
+    height: 500px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.a{
+    width: 20%;
+    height: 300px;
+    /* border: 1px solid black; */
+} 
+.a h1{text-align: center;
+    font-size: 50px;
+    margin-top: 60px; 
+}
+.a p{
+    text-align: center;
+    font-size: 25px;
+}
+.main4{
+    width: 100%;
+    height: 1000px;
+    background-color: whitesmoke;
+}
+.text4{
+    width: 100%;
+    height: 150px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 50px;
+}
+.text4 h1{
+    text-align: center;
+    font-size: 60px;
+}
+.p2{
+    width: 100%;
+    height: 800px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.b{
+    width: 30%;
+    height: 800px;
+    /* border: 1px solid black; */
+     /* background-attachment: fixed; */
+} 
+.b img{
+    background-size: cover;
+    width: 100%;
+    height: inherit;
+}
+.b h1{
+    margin-left: 250px;
+    margin-top: -400px;
+    color:whitesmoke
+}
+.butoon{
+    width: 100%;
+    height: 200px;
+}
+.butoon button{
+    margin-top: 80px;
+    font-size: 25px;
+    margin-left: 850px;
+}
+.main5{
+    margin-top: 100px;
+    width: 100%;
+    height: 800px;
+    /* border: 1px solid black; */
+}
+.p3{
+    width:80%;
+    height: 100px;justify-content: space-between;
+    /* border: 1px solid black; */
+    display: flex;
+    margin-left: 200px; 
+    margin-top: 50px; 
+}
+.c{
+    width: 30%;
+    height: 100px;
+    /* border: 1px solid black; */
+    font-size: 50px; 
+}
+.c a{
+    font-size: 200px;
+    margin-left: 150px;
+    /* border: 1px solid black; */
+}
+
+.p4{
+    margin-top: 100px;
+    width:80%;
+    height: 500px;
+    justify-content: space-between;
+    /* border: 1px solid black; */
+    display: flex;
+    margin-left: 200px;  
+}
+.p5{
+    width: 30%;
+    height: 500px;
+    /* border: 1px solid black; */
+}
+.p5 p{
+    padding: 20px;
+    font-size: 35px;
+}
+.p5 h1{
+    margin-left: 80px;
+    padding: 20px;
+    color: coral;
+}
+.main6{
+    width: 100%;
+    height: 800px;
+    /* border: 1px solid black; */
+    background-color: black;
+}
+.main6 .A{
+    width: 50%;
+    height:800px;
+    float: left;
+    /* border: 1px solid black; */
+}
+.A h1{
+    width: 100%;
+    height: 20px;
+    padding-top: 20px;
+    margin-left: 150px;
+    font-size: 50px;
+    color: white;
+}
+.A p{
+    font-size: 30px;
+    padding: 150px;
+    color: white;
+}
+.main6 .B{
+    width: 49.7%;
+    height:800px;
+    float: left;
+    /* border: 1px solid black; */
+    color: white;
+}
+.B p{
+    margin-top: 100px;
+    margin-left: 150px;
+    padding: 50px;
+    font-size: 30px;
+    color: white;
+}
+.B  input{
+    width: 330px;
+    height: 30px;
+    border: none;
+    background-color: black;
+    border-bottom: 2px solid white;
+}
+#n{
+    background-color: black;
+    border: none;
+    border-bottom: 1px solid white;
+}
+p button{
+    margin-top: 50PX;
+    width: 200px;
+    padding: 10px;
+    margin-left: 200px;
+}
+footer{
+    width: 100%;
+    height: 300px;
+    /* border: 1px solid black; */
+    color: white;
+}
+.p6{
+    width: 80%;
+    height: 200px;
+    display: flex;
+    margin-left: 15%;
+    margin-top: 5%;
+    justify-content: space-between;
+    color: white;
+}
+.p7{
+    width: 500px;
+    height: 200px;
+    color: white;
+}
+
